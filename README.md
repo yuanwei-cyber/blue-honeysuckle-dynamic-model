@@ -31,7 +31,8 @@ The core of this repository is the file `Unstable region of the fruit stem vibra
 - `LICENSE`: The MIT license file.
 
 ## Citation
-If you use this code in your research, please cite the associated manuscript (when published). The code itself can be cited via its Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) *（如果您用Zenodo生成了DOI就保留此行，否则删除）*
+If you use this code in your research, please cite the associated manuscript (when published). The code is permanently archived at: https://github.com/yuanwei-cyber
+blue-honeysuckle-dynamic-model
 
 ## License
 This work is licensed under the MIT License. See the `LICENSE` file for details.
