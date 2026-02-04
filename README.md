@@ -5,7 +5,7 @@ Mathematica code for "Dynamic response of Blue Honeysuckle fruit-stem system"
 This repository contains the *Mathematica* notebook (`*.nb`) file used to perform the analytical calculations and generate the figures for the manuscript:
 
 > **[Dynamic response of Blue Honeysuckle fruit-stem system based on mathematical model]**  
-> *[Yuan Wei1*, Wang Ruiyin2, Wang Yecheng1, Feng Fang2, Ma Decai3]*  
+> *[Yuan Wei, Wang Ruiyin, Wang Yecheng, Feng Fang, Ma Decai]*  
 > *PLOS ONE* (Under Review)
 
 ## Description
