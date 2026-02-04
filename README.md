@@ -10,8 +10,8 @@ This repository contains the *Mathematica* notebook (`*.nb`) file used to perfor
 
 ## Description
 The core of this repository is the file `Unstable region of the fruit stem vibration.nb, Relationship between the excitation frequency and damping ratio.nb, Stem is perpendicular to excitation direction.nb, Stem is parallel to  excitation direction.nb`. It implements the dynamic model of the Blue Honeysuckle fruit-stem system as described in the manuscript. Key operations include:
-- Calculating the Unstable region of the fruit stem vibration.
-- Calculating the Unstable region of Relationship between the excitation frequency and damping ratio
+- Calculating the unstable region of the fruit stem vibration.
+- Calculating the unstable region of relationship between the excitation frequency and damping ratio
 - Generating the amplitude-frequency response of stem is perpendicular to excitation direction.
 - Generating the amplitude-frequency response of stem is parallel to excitation direction.
 
